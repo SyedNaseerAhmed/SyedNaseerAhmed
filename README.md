@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SyedNaseerAhmed
+- 👀 I’m interested in Economics field related projects and assignments.
+- 🌱 I’m currently learning Machine learning, R, and Stata.
+- 💞️ I’m looking to collaborate on the projects related to Economics fields.
+- 📫 How to reach me through my Email address - syednaseerqau@gmail.com
